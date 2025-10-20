@@ -9,6 +9,7 @@ A growing collection of front-end projects built with HTML, CSS, and JavaScript 
 | Project | Description | GitHub | Live Demo |
 |---------|-------------|--------|-----------|
 | Password Generator | Generate strong passwords with customizable options | [Repo](https://github.com/markkenneth0711/Password-Generator) | [Demo](https://github.com/markkenneth0711/Password-Generator/blob/main/Password%20Generator%20Demo.gif) |
+| Character Counter | Counts characters and words in real time as you type | [Repo](https://github.com/markkenneth0711/character-counter) | [Demo](https://github.com/markkenneth0711/character-counter/blob/main/Character%20Counter%20Demo.gif) |
 
 > 🚧 More projects coming soon!
 
