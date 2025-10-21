@@ -11,6 +11,7 @@ A growing collection of front-end projects built with HTML, CSS, and JavaScript 
 | Password Generator | Generate strong passwords with customizable options | [Repo](https://github.com/markkenneth0711/Password-Generator) | [Demo](https://github.com/markkenneth0711/password-generator/blob/main/Password%20Generator%20Demo.gif) |
 | Character Counter | Counts characters and words in real time as you type | [Repo](https://github.com/markkenneth0711/character-counter) | [Demo](https://github.com/markkenneth0711/character-counter/blob/main/Character%20Counter%20Demo.gif) |
 | To-Do List App | Add, delete, and manage daily tasks with local storage support | [Repo](https://github.com/markkenneth0711/to-do-list) | [Demo](https://github.com/markkenneth0711/to-do-list/blob/main/To-do%20List%20Demo.gif) |
+| Calculator App | Perform basic arithmetic operations with a clean, responsive interface | [Repo](https://github.com/markkenneth0711/calculator-app) | [Demo](https://github.com/markkenneth0711/calculator-app/blob/main/Calculator%20Demo.gif) |
 
 
 > 🚧 More projects coming soon!
