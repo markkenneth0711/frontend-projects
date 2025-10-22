@@ -13,6 +13,7 @@ A growing collection of front-end projects built with HTML, CSS, and JavaScript 
 | To-Do List App | Add, delete, and manage daily tasks with local storage support | [Repo](https://github.com/markkenneth0711/to-do-list) | [Demo](https://github.com/markkenneth0711/to-do-list/blob/main/To-do%20List%20Demo.gif) |
 | Calculator App | Perform basic arithmetic operations with a clean, responsive interface | [Repo](https://github.com/markkenneth0711/calculator-app) | [Demo](https://github.com/markkenneth0711/calculator-app/blob/main/Calculator%20Demo.gif) |
 | Number Guessing Game | Guess the randomly generated number and get feedback until you find the correct answer | [Repo](https://github.com/markkenneth0711/number-guesser) | [Demo](https://github.com/markkenneth0711/number-guesser/blob/main/Number%20Guesser%20Demo.gif) |
+| Rock Paper Scissors Game | Play against the computer with live score tracking and visual feedback | [Repo](https://github.com/markkenneth0711/rock-paper-scissors-game) | [Demo](https://github.com/markkenneth0711/rock-paper-scissors-game/blob/main/Rock%2C%20Paper%2C%20Scissors%20Demo.gif) |
 
 
 > 🚧 More projects coming soon!
