@@ -16,6 +16,7 @@ A growing collection of front-end projects built with HTML, CSS, and JavaScript 
 | Rock Paper Scissors Game | Play against the computer with live score tracking and visual feedback | [Repo](https://github.com/markkenneth0711/rock-paper-scissors-game) | [Demo](https://github.com/markkenneth0711/rock-paper-scissors-game/blob/main/Rock%2C%20Paper%2C%20Scissors%20Demo.gif) |
 | Typing Speed Tester | Test your typing speed and accuracy with real-time WPM tracking and dynamic sentences | [Repo](https://github.com/markkenneth0711/type-speed-tester) | [Demo](https://github.com/markkenneth0711/type-speed-tester/blob/main/Type%20Speed%20Tester%20Demo.gif) |
 | Quiz App | Interactive quiz with multiple categories (HTML, CSS, JS) and score tracking | [Repo](https://github.com/markkenneth0711/frontend-quiz-app) | [Demo](https://github.com/markkenneth0711/frontend-quiz-app/blob/main/Quiz%20App%20Demo.gif) |
+| Memory Card Game | Flip cards to find matching pairs with move tracking and a reset feature | [Repo](https://github.com/markkenneth0711/memory-card-game) | [Demo](https://github.com/markkenneth0711/memory-card-game/blob/main/Memory%20Card%20Game%20Demo.gif) |
 
 > 🚧 More projects coming soon!
 
