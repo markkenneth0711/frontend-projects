@@ -18,8 +18,6 @@ A growing collection of front-end projects built with HTML, CSS, and JavaScript 
 | Quiz App | Interactive quiz with multiple categories (HTML, CSS, JS) and score tracking | [Repo](https://github.com/markkenneth0711/frontend-quiz-app) | [Demo](https://github.com/markkenneth0711/frontend-quiz-app/blob/main/Quiz%20App%20Demo.gif) |
 | Memory Card Game | Flip cards to find matching pairs with move tracking and a reset feature | [Repo](https://github.com/markkenneth0711/memory-card-game) | [Demo](https://github.com/markkenneth0711/memory-card-game/blob/main/Memory%20Card%20Game%20Demo.gif) |
 
-> 🚧 More projects coming soon!
-
 ---
 
 ## 🧠 Purpose
